@@ -96,7 +96,7 @@ Timeline:
 
   2. Phase 2: Transformation
 
-  3. Cataloging
+  3. Phase 3: Cataloging
 
 Deliverables: 
 
