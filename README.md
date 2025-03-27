@@ -62,7 +62,7 @@ Deliverables:
 
 # Data Wrangling
 
-Project Title: ETL Pipeline for AQnimal Inventory Data
+Project Title: ETL Pipeline for Animal Inventory Data
 
 Objective: Clean, standardize, and catalog raw animal impoundment records for analysis.
 
