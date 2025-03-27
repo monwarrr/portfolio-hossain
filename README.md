@@ -17,5 +17,7 @@ Dataset:
 Methodology: 
   1. Data Aggression: Used AWS Athena to run SQL queries aggregating animal counts by age category.
 
+     
+
 Tools and Technology: 
 Deliverable: 
