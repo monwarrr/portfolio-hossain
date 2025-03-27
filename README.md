@@ -1,6 +1,6 @@
 # Portfolio - Monwar Hossain (2302437)
 
-Descriptive Analysis
+# Descriptive Analysis
 
 Project Description: Analyzing Animal Impoundment Trends in Vancouver (2024)
 
@@ -45,6 +45,14 @@ Tools & Technologies:
      
   2. Languages: SQL, Python (Pandas).
 
+Timeline: 
+
+  1. Phase 1: Data Injection
+
+  2. Phase 2: Data Aggregation
+
+  3. Phase 3: Visualization & Reporting
+
 Deliverables: 
 
   1. Interactive dashboards showing intake trends.
@@ -52,7 +60,7 @@ Deliverables:
   2. Shelter utilization reports for city planners.
 
 
-Data Wrangling
+# Data Wrangling
 
 Project Title: ETL Pipeline for AQnimal Inventory Data
 
@@ -82,6 +90,14 @@ Tools & Technologies:
      
   2. Languages: PySpark, SQL.
 
+Timeline: 
+
+  1. Phase 1: Data Cleaning
+
+  2. Phase 2: Transformation
+
+  3. Cataloging
+
 Deliverables: 
 
   1. Analysis-ready datasets in S3 (pets-cur-hos).
@@ -91,7 +107,7 @@ Deliverables:
   3. Automated Glue workflows for future data updates.
 
 
-Data Quality Control
+# Data Quality Control
 
 Project Title: Data Integrity & Security for Animal Services.
 
@@ -115,6 +131,14 @@ Tools & Technologies:
 
   1. AWS: KMS, CloudWatch, CloudTrail.
 
+Timeline: 
+
+  1. Phase 1: Validating 
+
+  2. Phase 2: Security Setup
+
+  3. Phase 3: Monitoring
+
 Deliverables: 
 
   1. Real-time data quality dashboards.
@@ -122,7 +146,7 @@ Deliverables:
   2. Audit logs for compliance reporting.
 
 
-Note: The portfolio is simplified and only highlights the key steps within the whole process. 
+# Note: The portfolio is simplified and only highlights the key steps within the whole process. 
      
 
      
