@@ -21,7 +21,7 @@ Methodology:
 
 <img width="751" alt="Image" src="https://github.com/user-attachments/assets/7e58aceb-0612-4822-979a-f5937d4364dc" />
 
-  3. Data Aggression: Used AWS Athena to run SQL queries aggregating animal counts by age category.
+  2. Data Aggression: Used AWS Athena to run SQL queries aggregating animal counts by age category.
      
 <img width="557" alt="Image" src="https://github.com/user-attachments/assets/75b3791c-6f25-428a-bae4-14b7f213d791" />
 
@@ -104,7 +104,7 @@ Deliverables:
 
 <img width="752" alt="Image" src="https://github.com/user-attachments/assets/1f8bb7ee-f494-40f2-afd1-dd4f2b867d74" />
      
-  3. Automated Glue workflows for future data updates.
+  2. Automated Glue workflows for future data updates.
 
 
 # Data Quality Control
